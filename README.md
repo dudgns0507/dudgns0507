@@ -19,73 +19,36 @@
 
 ✉️  [hoon2585@gmail.com](mailto:hoon2585@gmail.com)
 
-▶ 를 눌러 상세 내용을 보실 수 있습니다.
-
 ## 🖥️ Skills
 
 ### Android
 
 - Java, Kotlin
-
-    현재 가장 많이 사용하고 있는 언어로 실제 서비스 중인 안드로이드 네이티브 앱을 개발/유지 보수 해 본 경험이 있습니다. 업무와 개인 프로젝트 모두에 사용하고 있습니다.
-
 - MVVM
-
-    MVVM 패턴을 가장 많이 사용하고 있으며 운영중인 서비스를 MVVM으로 리팩토링한 경험도 있습니다. 
-
 - Gradle
-
-    Build task 관리 및 버전 관리 등에 사용하였습니다.
-
 - JUnit5, Mockito
-
-    안드로이드의 단위 테스트를 위해 사용했습니다.
 
 ### Backend
 
 - Python
-
-    사용 경험이 가장 많은 백엔드 언어로 Flask 프레임워크를 주로 사용합니다. API 서버와 크롤러, 봇 등을 제작할 수 있습니다.
-
 - Node.js
-
-    다양한 서버 언어를 경험해 보기 위해 주로 개인프로젝트에서 typescript와 함께 사용하였습니다.
 
 ### DevOps
 
 - MySQL, MongoDB
-
-    Flask와 MySQL 그리고 Node.js와 MongoDB를 함께 사용했으며 API를 위한 기본적인 DB 구축 및 사용이 가능합니다.
-
 - Jenkins, Github Action
-
-    안드로이드 CICD를 위해 주로 Jenkins를 사용하고 있습니다. Jenkins Pipeline을 통해 Lint, Build, Test, Slack을 연동해서 사용하고 있습니다.
-
 - Nginx, Docker, Docker-compose
-
-    API 서버 개발 시 혹은 개인 서버를 관리하기 위해 Nginx와 Docker를 함께 사용하고 있습니다. Docker를 통한 버전 관리 및 배포를 할 수 있습니다.
-
 ### FrontEnd
 
 - HTML5, CSS3, JS(ES6)
 
-    Flask에 Jinja 템플릿을 사용하거나 순수 Html을 사용해서 관리자 페이지 및 원페이지 홈페이지 등을 만든 경험이 있습니다.
-
 ### Cooperation
 
 - Jira & Confluence, Trello, Notion
-
-    현 직장에서 사용하고 있는 협업 툴로 업무적인 기록은 Confluence를 사용하고 개인 기록으로는 Notion을 사용하고 있습니다.
-
 - Git, Github
-
-    Github의 기본적인 사용법을 알고 있으며 Github Flow를 채택하여 프로젝트를 관리하고 있습니다.
-
 - Slack
-
-    커뮤니케이션을 위해 사용합니다. 슬랙 봇 (Jenkins Slack Bot 등)을 만들어 사용하고 있습니다.
-
-다양한 기술들을 배우는걸 좋아하여 위 스킬 이외의 기술 스택도 빠르게 배우고 사용할 수 있습니다.
+  
+### 다양한 기술들을 배우는걸 좋아하여 위 스킬 이외의 기술 스택도 빠르게 배우고 사용할 수 있습니다.
 
 ## 🏢 Career
 
