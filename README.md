@@ -11,8 +11,6 @@
 
 ## ☎️ Contact
 
-📞 010-2585-2449
-
 🌐  [resume.cropo.me](https://resume.cropo.me)
 
 🌐  [github.com/dudgns0507](http://github.com/dudgns0507)
