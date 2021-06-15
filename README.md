@@ -18,34 +18,3 @@
 🌐  [github.com/dudgns0507](http://github.com/dudgns0507)
 
 ✉️  [hoon2585@gmail.com](mailto:hoon2585@gmail.com)
-
-## 🖥️ Skills
-
-### Android
-
-- Java, Kotlin
-- MVVM
-- Gradle
-- JUnit5, Mockito
-
-### Backend
-
-- Python
-- Node.js
-
-### DevOps
-
-- MySQL, MongoDB
-- Jenkins, Github Action
-- Nginx, Docker, Docker-compose
-### FrontEnd
-
-- HTML5, CSS3, JS(ES6)
-
-### Cooperation
-
-- Jira & Confluence, Trello, Notion
-- Git, Github
-- Slack
-  
-### 다양한 기술들을 배우는걸 좋아하여 위 스킬 이외의 기술 스택도 빠르게 배우고 사용할 수 있습니다.
