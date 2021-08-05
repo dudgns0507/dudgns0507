@@ -9,14 +9,6 @@
 - 낯가림이 있는 편이지만 누구나 편하게 대화할 수 있는 성격입니다.
 - 문제 상황에 직면하면 해결할 때까지 포기하지 않는 끈질김을 가지고 있습니다.
 
-## ☎️ Contact
-
-🌐  [resume.cropo.me](https://resume.cropo.me)
-
-🌐  [github.com/dudgns0507](http://github.com/dudgns0507)
-
-✉️  [hoon2585@gmail.com](mailto:hoon2585@gmail.com)
-
 ## 🖥️ Skills
 
 ### Android
