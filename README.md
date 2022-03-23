@@ -5,7 +5,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dudgns0507)]()
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dudgns0507)]() 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dudgns0507)]
 
 ## 🖥️ Skills
 
