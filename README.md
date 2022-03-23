@@ -3,7 +3,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dudgns0507)](https://velog.io/@dudgns0507) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dudgns0507)](https://github.com/dudgns0507)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dudgns0507)](https://velog.io/@dudgns0507)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dudgns0507)](https://velog.io/@dudgns0507) 
 
